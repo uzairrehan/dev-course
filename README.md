@@ -15,6 +15,7 @@ This course is structured into **four progressive levels**, each with hands-on p
 - HTML5, CSS3, JavaScript (ES6+)
 - Git & GitHub
 - VS Code, CLI
+- NPM (Intro)
 
 ### **Projects:**
 1. **Personal Portfolio (HTML/CSS)**
@@ -23,14 +24,16 @@ This course is structured into **four progressive levels**, each with hands-on p
 
 ### **Topics Covered:**
 ✔ Internet Fundamentals: HTTP, DNS, Hosting, Domain Names  
-✔ HTML5 & CSS3 ([Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf))
+✔ HTML5 & CSS3 ([Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf))  
 ✔ CSS Animations ([Animate.style](https://animate.style/))  
 ✔ Responsive Design (Flexbox, Grid) ([CSS-Tricks](https://css-tricks.com/a-complete-guide-to-css-media-queries/))  
 ✔ Git & GitHub Basics ([GitHub Desktop](https://desktop.github.com/))  
 ✔ Media Queries, Font Awesome, Bootstrap, Google Fonts  
 ✔ Figma (Plugins, Dev Mode, Pixel Perfect UI, AI Plugins)  
-✔ Accessibility ([WAI](https://www.w3.org/WAI/fundamentals/accessibility-intro/))  
+✔ Accessibility ([WAI](https://www.w3.org/WAI/fundamentals/accessibility-intro/)), ARIA Roles  
 ✔ Deployment (Netlify, [Namecheap](https://www.namecheap.com/))  
+✔ Browser DevTools Mastery  
+✔ Responsive Web Design Principles  
 ✔ Hackathon after module completion
 
 ---
@@ -55,9 +58,14 @@ This course is structured into **four progressive levels**, each with hands-on p
 ### **Topics Covered:**
 ✔ Component Architecture, Hooks, Forms, API Integration (Axios)  
 ✔ Advanced JS: Closures, Promises, Array Methods, Optional Chaining  
-✔ Git Advanced: Rebase, Cherry Pick, PR Reviews  
+✔ Git Advanced: Rebase, Cherry Pick, PR Reviews, Gitflow  
 ✔ Supabase: Auth (Email, Google), Storage & DB  
 ✔ UI Animations with GSAP  
+✔ State Management Patterns  
+✔ SEO in React/Next.js  
+✔ React Performance Optimization: memo, lazy, Suspense  
+✔ Dark Mode Implementation  
+✔ Jest + React Testing Library (optional)  
 ✔ Hackathon after module completion
 
 ---
@@ -68,7 +76,7 @@ This course is structured into **four progressive levels**, each with hands-on p
 
 ### **Technologies:**
 - Node.js, Express.js, NestJS
-- MongoDB, PostgreSQL
+- MongoDB, PostgreSQL, Prisma
 - Redis, WebSockets, Supabase
 - Auth: JWT, OAuth, Firebase Auth
 
@@ -84,13 +92,15 @@ This course is structured into **four progressive levels**, each with hands-on p
 ✔ Middleware, Protected Routes, Cloudinary, Node-cache  
 ✔ Socket.IO, Messaging Queues, File System  
 ✔ Payment Integration: Stripe, PayPal  
+✔ API Docs with Swagger/Postman  
+✔ Rate Limiting, Helmet, CORS  
 ✔ Hackathon after module completion
 
 ---
 
 ## **Level 4: Advanced & Deployment**
 ### **Goal:** Ship production-grade apps with DevOps & AI tools.
-### **Pre-requisites:** Module 1,2 & 3
+### **Pre-requisites:** Module 1, 2 & 3
 
 ### **Technologies:**
 - TypeScript (Full-Stack)
@@ -98,6 +108,7 @@ This course is structured into **four progressive levels**, each with hands-on p
 - CI/CD: GitHub Actions, Vercel
 - AI Tools: OpenAI API, GitHub Copilot, Vercel v0
 - Testing: Vitest, Playwright
+- Serverless Functions (Vercel/Netlify)
 
 ### **Projects:**
 10. **SaaS Platform (Next.js + NestJS + Prisma)**
@@ -111,14 +122,39 @@ This course is structured into **four progressive levels**, each with hands-on p
 ✔ Web Security: CORS, HTTPS, CSP, OWASP Risks  
 ✔ DevOps: Docker, GitHub Actions, Vercel CI/CD  
 ✔ Testing: Unit, Integration, End-to-End  
-✔ AI-assisted Development & Deployments
+✔ AI-assisted Development & Deployments  
+✔ Error Boundaries & Fallback UI  
+✔ Monitoring & Logging: Sentry, LogRocket, Grafana (intro)  
+✔ LLM Agents / RAG Basics (Optional AI track)
+
+---
+
+## **Bonus Module: Soft Skills & Career Prep**
+### **Goal:** Help students land jobs or internships.
+
+### **Topics Covered:**
+✔ Resume & Cover Letter Writing  
+✔ LinkedIn & GitHub Optimization  
+✔ Portfolio Best Practices (Personal Branding)  
+✔ Behavioral Interviews + STAR Method  
+✔ DSA Basics (Arrays, Strings, Sorting, Recursion, HashMaps)  
+✔ System Design for Beginners  
+✔ Mock Interviews & Pair Programming  
+
+---
+
+## **Capstone Support**
+✔ Templates and Starter Kits  
+✔ Project Proposal + Review Stage  
+✔ Peer Collaboration & Team Roles  
+✔ Final Demo Day / Project Showcase  
 
 ---
 
 ## **Final Outcome**
-By the end of this course, students will:
+By the end of this course, students will:  
 🚀 Build & deploy **12+ production-grade projects**  
 🚀 Master **modern full-stack technologies**  
 🚀 Work with **DevOps & AI-powered workflows**  
-🚀 Gain real-world experience through **hackathons**
+🚀 Gain real-world experience through **hackathons, mock interviews & capstone launch**
 
